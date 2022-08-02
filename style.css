@@ -1,0 +1,47 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+article{
+    margin-bottom: 100px;
+}
+.logo {
+    height: 70px;
+    width: 190px;
+}
+.top-header {
+    background-color: #F0FFF0;
+}
+.schedule{
+    color: #21B573;
+}
+.half-width h6{
+    font-size: 16px;
+    color: #FD511A;
+}
+.half-width h1{
+    font-size: 48px;
+    font-weight: bold;
+}
+.half-width p{
+    color: gray;
+    font-size: 16px;
+}
+.top-banner{
+    height: 576px;
+    background-color: #F0FFF0;
+}
+.row img{
+    border: 1px #FD511A;
+    height: 80px;
+    width: 75px;
+}
+.topic1, .topic2, .topic3, .topic4{
+    background-color: #F0FFF0;
+}
+footer{
+    color: white;    
+}
+footer a{
+    text-decoration: none;
+    color: white;
+}
